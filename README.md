@@ -1,11 +1,11 @@
 # Frontend Mentor - QR Code Component
 
-This is a solution to the [QR Code Component](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [QR Code Component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ### Links
 
-- Solution URL: [Click here](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX/hub/tip-calculator-with-htmlcssjs-PZMG0xQdCf)
-- Live Site URL: [Click here](https://iosebkhe.github.io/tipCalcApp/)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/qr-code-component-7Len2lEe4B)
+- Live Site URL: [Click here](https://iosebkhe.github.io/qr-code-component/)
 
 ###
 
