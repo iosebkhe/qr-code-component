@@ -7,7 +7,7 @@ This is a solution to the [QR Code Component](https://www.frontendmentor.io/chal
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/qr-code-component-7Len2lEe4B)
 - Live Site URL: [Click here](https://qrcode-iosebkhe.netlify.app/)
 
-###
+### Created with
 
 - Semantic HTML5 markup
 - CSS custom properties
